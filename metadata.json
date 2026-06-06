@@ -1,0 +1,6 @@
+{
+  "name": "Medical Discovery and Genomic Audit Platform",
+  "description": "An interactive workspace combining SSA Medical Evidence Discovery with genomic data audits (GWAS PRS pipeline), immutable chain-of-custody logging, and COBOL ledger generations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
